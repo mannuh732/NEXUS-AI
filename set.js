@@ -31,7 +31,7 @@ module.exports = { session: process.env.SESSION_ID || 'eyJub2lzZUtleSI6eyJwcml2Y
     ANTIDELETE1 : process.env.ANTI_DELETE_MESSAGE || 'no',
     ANTICALL : process.env.ANTICALL || 'no',
                   AUTO_REACT_STATUS : process.env.AUTO_REACT_STATUS || 'yes',
-                  AUTO_READ : process.env.AUTO_READ || 'no',
+                  AUTO_READ : process.env.AUTO_READ || 'yes',
                   CHATBOT : process.env.CHATBOT || "no",
                   AUTO_BIO : process.env.AUTO_BIO || "yes",
                   AUTO_REACT : process.env.AUTO_REACT || "no",
