@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY NEXUS-AI 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY CCSS-AI 🤍*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
@@ -33,9 +33,9 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.postimg.cc/SR9S0ZdT/119
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "NEXUS-AI",
+BOT_NAME: process.env.BOT_NAME || "CCSS-AI",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "NEXUS-AI",
+STICKER_NAME: process.env.STICKER_NAME || "CCSS-AI",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -43,15 +43,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "2542758XXXX",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "254117622812",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "officialPkdriller",
+OWNER_NAME: process.env.OWNER_NAME || "CCSSMANNUH",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ pkdriller*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ CCSSMANNUH*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/SR9S0ZdT/11900809-f4ad-46ee-bedf-f430eed4bab8.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *NEXUS-AI*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *CCSS-AI*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -71,11 +71,11 @@ ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // maks true for always online 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
-AUTO_TYPING: process.env.AUTO_TYPING || "false",
+AUTO_TYPING: process.env.AUTO_TYPING || "true",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "254794146821",
+DEV: process.env.DEV || "254117622812",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
